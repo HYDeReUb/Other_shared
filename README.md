@@ -1,4 +1,2 @@
 # 先放著，找時間做...
-大部分的Ubuntu/Debian指令可以去
-http://github.com - automatic!
-[GitHub](http://github.com)
+## 大部分的Ubuntu/Debian指令可以去[GRaspberry Pi OS指令使用.md](https://github.com/HYDeReUb/Rasp-Pi_shared/blob/master/Raspberry%20Pi%20OS%E6%8C%87%E4%BB%A4%E4%BD%BF%E7%94%A8.md)查找
