@@ -1,5 +1,5 @@
 # 注意:這只是個人製作自用的程式碼，若要使用的話需要自行更改檔案位置!
-## windows
+## windows(name.cmd)
 ```
 @echo off
 title ECLIPSE備份 Version 0 Beta 6.1D "NOT AUTOMATIC!!"
